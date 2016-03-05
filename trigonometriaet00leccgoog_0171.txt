@@ -1,0 +1,44 @@
+. DnCnnonr Loorntnnmrco. 153
+Scholion.
+IN tabulis supputandis non est oeaeffe eam, quam en·
+
+posuimus, methodum adbibere, mſs in numeris pti·
+ntis ,· nam in innumeris, qui eu aliorum multiplicatione
+oriuntur, quique dicuntur compostti, satis etit logaritb·¹
+mos componentium addere, ut habeatur logatitbmus pto·
+daun quod statim demonstrare pergam.
+
+PROPOSITIO IX.
+
+Pnootnmu.
+
+18 5.INvenite logatitbmoc omnium numerorum compost·
+torum.
+
+Refhlutio. Inventis logarithmis omnium primorum
+usquead 1000, multo facilius invenientur logarithmi
+omnium numerorum ex illis compofitorum. Nam, st
+cluo numeri primi, multiplicatione alium componant, lo·
+gacitbmi componentium fimul additi dabunt logatitbmum
+compofiti, stu produtli. Et contro, fi o'logaritbmo nu·
+meti compofiti subducatur logaritbmus unius numeri com-
+ponentis, relinquetur logacitbmur alterius componentis,
+seu quotientis; ut diuum est n. 175. δι 178.
+
+⁴·Itaque, st a dato logatithmo numeri 10 subduca-
+tur logatithmus, quem pono inventum, numeri 5,
+refiduum etit lognrcthmus numeri 2.
+
+si lognrithmus numeri 2 addatur lugarithmo nu·
+meri 3, habebitur logarithntus numeri 6.
+
+Et quoniam quaternarius binarii quadratus est,
+& oblonarius, ejusdem cubus; logorithmus l' ii du·
+plicatus, erit quaternarii logatithmus, tt tu·
+tem, oilonatii (n. 176.). ’-
+
+Ita quoque logarithmus ternarii dr it·
+novenarii logatithmus. Et summa lugeri* ·
+
+ 
+

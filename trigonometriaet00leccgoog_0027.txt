@@ -1,0 +1,33 @@
+DEFINITIONES. u
+
+7. Rs dimetiendi, seu resolvendi triangula, dici·
+
+tur Trigonometria. Porro triangulum omne,
+ut perse patet, ex tribus lateribus constat, & ex tri·
+bus angulis3 ex quibus, sr tria smt nota, tria reliqua,
+quae sunt ignota, inveniuntur. Haec inventio dicitur
+Resolurio, seu Analyfis triangulorum. Scientia igitur
+ea, 'quae ex datis trianguli lateribus angulos, & ex
+angulrs latera, laterumve rationes, aut mixtim alle·
+quitur, Trigonometria appellatur, quae triangulorum
+dimensionem graeco vocabulo exprimit.
+
+Triangulum duplex est, aliud planum, dc aliud
+sphaericum. Triangulum planum est, quod extribus
+reddis constat lineis, quae ejus latera dicuntur. Trian-
+gulum sphaericum est, quod in sphaerae superficie a tri·
+bus ejusdem lphaerae maximorumcirculorum arcubus
+comprehenditur.
+
+Hinc Trigonometria quoque duplex est, nempe
+plana, quae circa triangula plana; δε sphaerica, quae
+circa -trrangula sphaerica versatur.
+
+Quare in quatuor partes hunc tradlatum divide·
+mus. Prima aget de construerione Tabularum Sinuum,
+Tangentium, δε secantium3 Secunda de Triangulis
+pllaqnisjnTertia de Logarithmis3 Quarta de Triangulis
+paencrs.
+
+ 
+

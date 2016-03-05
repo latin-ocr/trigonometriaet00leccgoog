@@ -1,0 +1,44 @@
+252 Tarannonrrnrn Pana IV:
+rellangulo, cujus tria latera fint smgula minora qua·
+drante circuli3 deinde eamdem convenire demon ra·
+bimus reliquis triangulis rellangulis, excepto casu
+trianguli, m quo dumtaxat latusqun'um, 8< hypotenu-
+sa aequeotur quadranti circuli. ’
+
+Demonstratio. Dico iraque
+’ R: S-DB :zT-DBC:T--DC.'¹
+
+cumcuim, juxta construuionem Theorematis prare-
+dentis‚ planum trianguli EFG, rellanguli in F, fit
+perpendiculate lineae ΑΒ, erit triangulum AEF re-
+&angulum in Ἐς hinc habebitur hac proportio: -
+. AF: R :: EF :s-EAF.
+Similiter triangulum AFG, reelangulu'm in F, dabit
+hanc analogiam, utl constat ex prima parte Trig. plana:
+
+AF: R :: FG :T-FAG;
+Ergo EF: FG :zs-EAFzT-FAG.
+Atqui in triangulo EFG, pariter reelangul'o in F, et
+dinis in prima parte Trig., invenitur, ·
+
+EF: FG :: R. :T-FEG;
+Ergo R:T-FEG::S-EAF:T—FAG;
+&alternando‚R:S—EAF::T-FEG:T-FAG;
+vel, R: s-DB :zT-DssczT-Dc.
+Quod erat &o
+
+Similiter demonstrabitur,
+
+- R: S-DC :2T-Dcss:T-DB.
+Neque aliud supponi debet
+in conllrullione‚ quim re·
+&am EF perpendicularem
+effe fenori D AC , δι con·
+sequenterinterseilioniAD,
+ac praeterea planum trian· ’
+
+guli EFG perpendiculare
+reilae Ac.
+
+ 
+

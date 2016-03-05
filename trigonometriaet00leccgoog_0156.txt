@@ -1,0 +1,55 @@
+138 DaCauoruaLoouurrunrco i
+166. Qui tabulas condiderunt, progressionem de-
+
+’ euplum, 1, 10,100, 1000 διε. pro geometrica as·
+
+sumpsere, numerosque, qui maximo excelsu 10000000
+
+se superarent, pro arithmetica progressione, ac condi·
+
+tionem, quam nuper rndr·
+eruimur, observarunt,
+qua fieret, ut geometri·
+cam ordirentur ab 1, 8<
+arithmeticam a0, pro-
+pter usus infra traden-
+
+OS·
+
+Progngeom. Progaaritbm.
+1 o
+10 10000000
+100 20000000
+1000 30000000
+10000 40000000 dte.
+
+167. Quid autem causa fuerit, cur logarithmu-
+rum Inventores pro terminis progressronis arithmeticae
+allumpserint numeros tanto excelsu se superantes, bre·
+. viter indicabo, quod planitls infra exponam. Nam, sr
+
+Δ in hoc opere, usu ue logarithmorum nihil aliud prae·
+siari oporteret, quim datae cuilibet seriei numerorum
+geometrice proportionalium 1, 2, 4, 8, 16, 32 dcc.
+assignare seriem numerorum arithmetice roportiona·
+lium, seu logarithmus 1, a, 3, 4, ς, &c., facil·
+limum id quidem ellet, nec magni moliminis opus.
+ι Quia verd iti quacunque serie geometrica multi desunt
+ι numeri intermedii, quibus in nollris operationibus in·
+digere possumus, ideo logarithmi applicati cuicumque
+serici geometrica, debent maximo excelsu se invicem
+su erare, ut intermediis poffint etiam sui logarithmi , fiae
+ulia sraiiioae afflgnari. Quod, ut saciliirs intelligas,
+confer iam diuam seriem arithmeticam 1, 2, 3,4
+&o cum serie geometrica 1, a, 4, 8 dcc. cum uni·
+tas srt logarithmus unitatis, binarius binarii, ternarius
+quaternarii, hlc jam deelsgt lo arithmus ternarii ; pa-
+riter nullus inveniretur logaritlimus numerorum ς, 6 ,
+7, 9, ιο, 11 &c.'qin quo esset maximus desedlus in
+canone logarithmieo3 nam quotiescunque occurrerent
+
+numeri hujusmodi, cessaret omnis logarrthmorum Ipsus.
+> x
+
+ 
+

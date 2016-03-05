@@ -1,0 +1,30 @@
+Annum-mm, ετ ιοκσιινιετιιιι. 99
+129. Altitudo acceffibilis dicitur, cujus distantia
+mechanic& mensurari potest.
+130. Altitudo inacceffa‚ cujus distantia non potest
+mechanic& mensurari .
+
+P R 0 B 1. E M A Ι.
+13 1. Istantiam in una dumtaxat extremitate acceffi-
+bilem metiri.
+
+Resolutio. Esto AC latitudo fluminis, aut lacus,
+quam metiri oporteat. Qa parte acceffibilis est, me·
+tire mechanic& longitudinem quamlibet AB, quae pro·
+'portionalis effe debet distantiae mensurandae, ut infra
+docebitur observatione V.; defixhque hasta in punffis
+A ὃς Β, ope semicirculi, aut quadrantiS, cape angulos
+BAC, ABC, quibus cognitts, tertius quoque angu-
+lus notus erit . F1at itaque (n. 113.):
+
+Ut finus anguli C
+
+ad finum anguli B;
+
+Ita latus cognitum AB in certa quavis mensura,
+ad latus quaefitum AC in eadem mensura .
+
+ 
+
+G 2 Esto
+

@@ -1,0 +1,30 @@
+228 Tamouommm Pana IV.
+Scholion.
+
+Oc corollarium locam aaa babet a‘n triangulis radi·
+lineis.
+
+TnEoREMAIK
+
+272. ΙΝ amai triangula pbaerico'ABC, a aagalaa ia·
+ternus A, appa mas lateri BC, fit aeqaala‘s, aaa
+major, vel minor angula externa BC D, adjacenti eidem
+lateri, erit samma lateram ΑΒ-Ι-ΒΕ aqualis, aaa ma·
+jar, vet minor semicircamserenta'a circuli.
+Haec Propofitio est conversa praecedentis.
+Demonstratar. Si angulus A:BCD‚ erit quo·
+que D:BCD; ergo latera oppostta hisce duobus
+angulis in trianguloBCD,
+nimirum, BC, BD‚erunt
+aequalia. Atqui summa'AB
+†BDaequatursemicircum·
+fe2rentiae3 Ergo summa AB
+÷ssc est pariter aequalis
+eidem semicircumferentiae.
+
+Quod erat primum.
+Duo reliqui casus eo-
+dem modo demonstrantur.
+
+ 
+
